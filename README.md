@@ -76,7 +76,7 @@ Daily-Water-Intake-Tracker/
 │   ├── database.py         # SQLite operations
 │   ├── logger.py           # Logging configuration
 │
-├── app.py                  # Streamlit frontend
+├── dashboard.py                  # Streamlit frontend
 ├── water_tracker.db        # SQLite database
 ├── requirements.txt
 └── README.md
@@ -203,5 +203,5 @@ GET /history/{user_id}
 
 ## 👨‍💻 Author
 
-Sagar Singh Chauhan
-ML Enginner
+Sagar Singh Chauhan |
+ML Enginner@FoundersCart
