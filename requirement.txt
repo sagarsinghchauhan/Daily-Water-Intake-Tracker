@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+huggingface-hub
+sentencepiece
+safetensors
+langchain
+langchain-community
+chromadb
+faiss-cpu
+sentence-transformers
+python-dotenv
+pydantic
+langchain-huggingface
+python-dotenv
