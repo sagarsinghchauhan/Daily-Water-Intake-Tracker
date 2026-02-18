@@ -89,7 +89,7 @@ Daily-Water-Intake-Tracker/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sagarsinghchauhan/Daily-Water-Intake-Tracker.git
 cd Daily-Water-Intake-Tracker
 ```
 
@@ -146,7 +146,7 @@ http://127.0.0.1:8000/docs
 Open a new terminal (keep FastAPI running) and run:
 
 ```bash
-streamlit run app.py
+streamlit run dashboard.py
 ```
 
 Streamlit dashboard will open automatically in your browser.
@@ -203,5 +203,5 @@ GET /history/{user_id}
 
 ## 👨‍💻 Author
 
-Your Name  
-AI Developer | Backend Engineer
+Sagar Singh Chauhan
+ML Enginner
